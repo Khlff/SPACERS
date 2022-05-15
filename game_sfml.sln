@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_sfml", "game_sfml.vcxproj", "{E6BCA4B9-166F-4016-82E9-8C3526757814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Dynamic|x64 = Debug Dynamic|x64
+		Debug Dynamic|x86 = Debug Dynamic|x86
+		Debug Static|x64 = Debug Static|x64
+		Debug Static|x86 = Debug Static|x86
+		Release Dynamic|x64 = Release Dynamic|x64
+		Release Dynamic|x86 = Release Dynamic|x86
+		Release Static|x64 = Release Static|x64
+		Release Static|x86 = Release Static|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Dynamic|x64.ActiveCfg = Debug Dynamic|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Dynamic|x64.Build.0 = Debug Dynamic|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Dynamic|x86.ActiveCfg = Debug Dynamic|Win32
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Dynamic|x86.Build.0 = Debug Dynamic|Win32
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Static|x64.ActiveCfg = Debug Static|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Static|x64.Build.0 = Debug Static|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Static|x86.ActiveCfg = Debug Static|Win32
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Debug Static|x86.Build.0 = Debug Static|Win32
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Dynamic|x64.ActiveCfg = Release Dynamic|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Dynamic|x64.Build.0 = Release Dynamic|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Dynamic|x86.ActiveCfg = Release Dynamic|Win32
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Dynamic|x86.Build.0 = Release Dynamic|Win32
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Static|x64.ActiveCfg = Release Static|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Static|x64.Build.0 = Release Static|x64
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Static|x86.ActiveCfg = Release Static|Win32
+		{E6BCA4B9-166F-4016-82E9-8C3526757814}.Release Static|x86.Build.0 = Release Static|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD557590-2251-4F46-A92C-BFD641A8A59A}
+	EndGlobalSection
+EndGlobal
