@@ -40,6 +40,7 @@
     <ProjectGuid>{e6bca4b9-166f-4016-82e9-8c3526757814}</ProjectGuid>
     <RootNamespace>game_sfml</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+    <ProjectName>SPACERS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug Static|Win32'" Label="Configuration">
