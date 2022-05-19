@@ -1,4 +1,4 @@
-# SPACERS
+# SpaceFrog
 The game is written using the SFML library.  
 
 ## Screenshots:
